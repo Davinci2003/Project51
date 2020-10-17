@@ -1,0 +1,42 @@
+h1{
+    color: #471570;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+*{
+    border: solid;
+}
+
+.header{
+    background-color: cornflowerblue;
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+}
+
+.menu a{
+    padding: 20px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+body{
+    margin: 0px;
+    background-color: #b281da;
+}
+
+.item{
+    border-radius: 80px;
+    background-color: #638cd8;
+    padding: 30px;
+    margin: 25px;
+    
+    width: 200px;
+    font-family: fantasy;
+    
+}
